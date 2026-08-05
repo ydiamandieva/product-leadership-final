@@ -33,9 +33,9 @@ _One Objective and three Key Results that flow directly from the cascade. Each K
 
 > **Objective:** Increase customer retention by making MyCF indispensable to customers' daily fleet operations
 >
-> - **KR1:** Increase annual gross retention from 20% to 40% by 31 December 2027
-> - **KR2:** Increase weekly active AI Assistant usage from 8% to 20% by 31 December 2027
-> - **KR3:** Reduce user churn attributable to low engagement from 15% to 8% by December 2027
+> - **KR1:** Increase annual user retention from 20% to 40% by 31 December 2027
+> - **KR2:** Increase monthly active AI Assistant usage from 8% to 20% by 31 December 2027
+> - **KR3:** Reduce user churn attributable to low engagement from 30% to 10% by December 2027
 
 ## 4. AI pressure-test notes
 
