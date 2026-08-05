@@ -1,0 +1,22 @@
+# Product Strategy One-Pager & OKRs, Module 1
+
+- **Scenario:** My own initiative
+
+## Playing to Win cascade
+
+| Question | Choice |
+|---|---|
+| Winning aspiration | Make MyCF the operational system customers rely on every day by transforming MyCF platform usage from navigation-driven to conversation-driven, increasing long-term customer retention through measurable daily value. |
+| Where to play | Existing MyCF customers who manage fleets within the platform and have sufficient operational data to support trusted, evidence-backed answers. We compete inside authenticated workflows where proprietary fleet data creates differentiated value. We will deliberately sequence breadth before depth: first delivering universal, cross-segment capabilities that benefit all customers, then expanding into HGV-specific workflows in H2 2027, while deferring geography-specific capabilities until after 2027 to maintain strategic focus and maximise platform-wide value before localisation. |
+| How to win | We become the fastest and most trusted way for fleet managers to obtain operational answers. Every interaction reduces friction compared to navigating reports, dashboards or documentation while remaining evidence-backed and explainable. Over time the assistant evolves from answering questions to proactively surfacing insights that increase customer reliance on MyCF. |
+| Capabilities required | We will build the capabilities that differentiate MyCF: proprietary fleet data integration, conversational experiences embedded throughout MyCF, domain-specific retrieval (RAG), evidence-backed responses with citations and confidence scoring, AI evaluation, telemetry-driven learning, and enterprise governance that reflects our customers' operational needs. We will buy commodity AI infrastructure, including foundation models, vector databases, orchestration frameworks, and cloud AI services, rather than investing in capabilities that are not a source of competitive advantage. We will partner with leading AI and cloud providers to leverage state-of-the-art models and accelerate innovation, while integrating trusted third-party data sources where they enhance customer value without diluting MyCF's differentiated expertise. |
+| Management systems | Product telemetry tied to business outcomes; AI quality scorecards; human evaluation alongside automated evaluation; experimentation framework; customer feedback loops; feature prioritisation based on retention impact rather than novelty; governance for hallucination, latency and cost. |
+
+## One hard no
+We will not answer questions unsupported by MyCF data because our competitive advantage is trusted, evidence-backed fleet intelligence - not generic AI. This protects customer trust, reinforces our differentiation, and keeps every investment focused on increasing retention through reliable operational value.
+
+## OKR cascade
+- **Objective:** _(not filled in)_
+- **KR1:** Increase annual user retention from 20% to 40% by 31 December 2027
+- **KR2:** Increase monthly active AI Assistant usage from 8% to 20% by 31 December 2027
+- **KR3:** Reduce user churn attributable to low engagement from 30% to 10% by December 2027
