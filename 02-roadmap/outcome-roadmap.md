@@ -10,9 +10,9 @@ _A multi-team roadmap organized by **outcomes**, not feature lists. Show how nea
 
 | Horizon | Outcome / bet | Owning team(s) | Success signal |
 |---|---|---|---|
-| Now (0 to 3 mo) | _____ | _____ | _____ |
-| Next (3 to 6 mo) | _____ | _____ | _____ |
-| Later (6 to 12 mo) | _____ | _____ | _____ |
+| Now (0 to 3 mo) | Prove that conversational workflows reduce the time and cognitive effort required for fleet managers to complete their most frequent operational tasks. | Increase customer trust by ensuring every AI response is evidence-backed, explainable and grounded exclusively in trusted MyCF data. | Establish behavioural adoption by making the AI Assistant part of customers' daily operational routines rather than an occasional support feature. |
+| Next (3 to 6 mo) | Expand conversational coverage across additional high-frequency fleet management workflows. | Introduce proactive operational recommendations and opportunity detection. | Build continuous learning through customer feedback loops and AI evaluation. | Introduce HGV-specific operational intelligence. | Strengthen commercial measurement linking AI usage to retention, expansion and renewals. |
+| Later (6 to 12 mo) | Extend conversational intelligence to geography-specific operational use cases once platform-wide capabilities mature. | Expand trusted data sources through selected third-party fleet integrations where they improve answer quality. | Evolve from reactive conversations towards autonomous operational assistance for low-risk recommendations. | Introduce role-aware experiences tailored to fleet managers, operations managers and executives. | Develop predictive operational intelligence powered by longitudinal customer fleet data. | Explore partner-powered capabilities where they strengthen MyCF's competitive advantage without reducing trust. | Apply conversational intelligence across additional Michelin Connected Fleet products where behavioural adoption has already been proven. |
 
 _[screenshot or shareable link to your roadmap visual]_
 
