@@ -32,12 +32,16 @@ _[screenshot or shareable link to your roadmap visual]_
 
 _What did you sequence first, what did you push out, and what did you cut entirely, and why? Use WSJF / cost of delay reasoning where it helps._
 
-> I chose to sequence … first because …
+> I chose to sequence these first because <br><br> **1. Proving conversational workflows reduce time and cognitive effort**<br> • This directly tests the core strategic hypothesis that underpins the entire strategy.<br> • It has the highest Cost of Delay because every subsequent investment depends on customers first changing their behaviour.<br> • It is a relatively small investment compared to the strategic uncertainty it removes, giving it a high WSJF score.<br><br> **2. Building trust through evidence-backed, explainable answers**<br> • Trust is the foundation of adoption. <br> • If customers do not trust the answers, they will revert to reports and dashboards regardless of AI capability.<br> • Investing here reduces the risk of customer churn and protects MyCF's competitive advantage, since trust is harder for competitors to replicate than conversational interfaces.<br><br> **3. Establishing habitual usage**<br> • Habit formation is the mechanism through which AI creates commercial value (retention, NRR and CLV).<br> • This bet validates whether the assistant becomes part of customers' daily operational workflow rather than an occasionally used feature.
 >
-> I pushed out … because …
+> I pushed out these initiatives because <br><br> **Expanding conversational coverage**<br> • There is little value in broadening coverage before proving customers consistently use the initial workflows.<br> • Better to optimise a small number of high-frequency use cases than support many low-adoption ones.<br>
+**Proactive recommendations** <br> • Recommendations require a high level of customer trust and proven AI quality.<br> • Introducing proactive AI too early risks reducing confidence if recommendations are inaccurate or poorly timed.<br><br> 
+**Continuous learning and evaluation**<br> • Although foundational, feedback loops become significantly more valuable once sufficient customer behaviour exists to learn from.<br><br> 
+**HGV-specific operational intelligence**<br> • This follows the deliberate strategy of breadth before depth.<br> • Vertical optimisation only creates value after universal conversational capabilities have demonstrated product-market fit.<br><br> 
+**Commercial measurement linking AI usage to retention**<br> • Early telemetry focuses on behavioural learning.<br> • Robust commercial attribution becomes meaningful only once adoption reaches sufficient scale.
 >
-> I cut … entirely because …
-
+> I cut these entirely because <br><br>These were intentionally excluded from the strategy because they do not strengthen the strategic hypothesis or create sustainable competitive advantage.<br> • Generic AI capabilities not grounded in trusted MyCF or approved third-party data were excluded because they undermine customer trust and erode differentiation. They also conflict with the stated Hard No.<br> • Geography-specific capabilities were intentionally deferred beyond 2027 because they fragment engineering effort before platform-wide value has been maximised.<br> • Capabilities that duplicate commodity AI functionality were not prioritised because foundation models, orchestration and infrastructure are deliberately treated as Buy capabilities rather than proprietary investments.<br> • Standalone AI features that increase novelty but not operational dependence were excluded because the objective is not higher AI usage—it is making MyCF the indispensable operational interface that increases retention, Net Revenue Retention and Customer Lifetime Value.
+> 
 ## Link to full artifact
 
 _[link to Slide 2 of your deliverables deck]_
