@@ -1,4 +1,4 @@
-# Alignment Plan: [Fable / Meridian / your initiative]
+# Alignment Plan: AI Assistant
 
 > Module 4 · Drive Alignment and Executive Influence, ★ Deliverable 4
 >
