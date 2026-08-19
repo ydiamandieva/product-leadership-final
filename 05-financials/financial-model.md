@@ -1,4 +1,4 @@
-# Financial Model: [Fable / Meridian / your initiative]
+# Financial Model: [AI Assistant]
 
 > Module 5 · Master Product Financials & Strategic Bets, ★ Deliverable 5
 >
