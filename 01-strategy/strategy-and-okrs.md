@@ -59,5 +59,4 @@ _Run the devil's-advocate prompt (in the Sprint 2 guide). Capture the verdict._
 - [x] **Committed**: resources are actually moving toward it
 
 ## Link to full artifact
-
-_[link to your Strategy Sprint Builder export / Slide 1 of your deliverables deck]_
+https://docs.google.com/presentation/d/1pH56OSY0Zw0SvLFuKSTz27dsKy-7bc1N/edit?slide=id.p3#slide=id.p3
