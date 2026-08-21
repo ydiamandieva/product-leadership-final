@@ -106,4 +106,21 @@ Evidence from customer behaviour over opinion.
 Decisions made closest to the work whenever possible, escalating only when necessary.
 
 ## Show and swap your team charter
-- **Where does the charter leave room for interpretation that could cause a conflict?:** _(not filled in)_
+- **Where does the charter leave room for interpretation that could cause a conflict?:** The biggest area that leaves room for interpretation is the boundary between Product ownership and Technical leadership.
+Specifically, these are the ambiguities that could create conflict:
+1, Who decides when architecture changes the roadmap?
+- The charter likely states that Engineering owns implementation and Product owns the roadmap, but it may not explicitly define what happens when technical constraints are discovered.
+- Without this, a technical leader can reasonably argue that the roadmap must change, while Product believes architecture must evolve to support it.
+2. Who owns the target architecture?
+- Is the architecture expected to support the agreed product strategy, or is the product strategy expected to conform to today's architecture?
+- The charter should explicitly state that technical leadership owns defining and evolving the architecture required to deliver agreed product outcomes.
+3. What constitutes a legitimate technical constraint?
+- There is no agreed threshold for when a technical limitation is significant enough to alter product priorities.
+- Otherwise, every architectural concern becomes a roadmap discussion.
+4. Who makes the final trade-off decision?
+- Technical leaders should assess feasibility, cost, risk, and sequencing.
+- Product should decide whether the business value justifies changing priorities.
+- If this governance isn't explicit, both parties can believe they own the decision.
+5. How architecture work is prioritised
+- Architectural evolution is essential, but the charter should define how platform investment competes with customer-facing work.
+- Otherwise, architecture can become an open-ended priority that continually displaces roadmap commitments.
