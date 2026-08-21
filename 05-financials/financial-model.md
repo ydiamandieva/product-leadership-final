@@ -10,11 +10,11 @@
 |---|---|---|
 | CAC | Maintain within current acquisition budget (±10%) | Finance assumption. The business case is driven by improving customer value, not increasing acquisition spend. |
 | LTV | +20% versus current baseline | Derived from improved retention and expansion. Finance to validate using the existing CLV model. |
-| Payback period | ≤24 months | Finance investment criterion. The incremental investment should be recovered within the organisation's acceptable capital allocation horizon. |
-| Investment required | £X million (Product development, AI infrastructure, platform engineering, data engineering, rollout and change management) | Finance forecast. Represents the total incremental investment required to deliver and scale the AI Assistant through General Availability and initial adoption. |
-| Expected return | +20% increase in Customer Lifetime Value (CLV) and Net Revenue Retention (NRR) increase from 102% to 110% | Strategic business case. Financial return is driven primarily by improved retention and customer expansion rather than new customer acquisition. |
+| Payback period | 19 months | Finance investment criterion. The incremental investment should be recovered within the organisation's acceptable capital allocation horizon. |
+| Investment required | £1.8M million (Product development, AI infrastructure, platform engineering, data engineering, rollout and change management) | Finance forecast. Represents the total incremental investment required to deliver and scale the AI Assistant through General Availability and initial adoption. |
+| Expected return | £5.7M incremental gross profit over 5 years| Strategic business case. Financial return is driven primarily by improved retention and customer expansion rather than new customer acquisition. |
 
-> **The case in one paragraph:** _____
+> **The case in one paragraph:** The AI Assistant is a strategic investment designed to increase the lifetime value of existing MyCF customers by making conversational interaction their primary operational workflow. Rather than driving growth through new customer acquisition, the investment strengthens customer retention, engagement and expansion by embedding MyCF into daily operational decision-making with faster, evidence-backed answers powered by proprietary fleet data. The business case assumes that this behavioural shift will improve Annual Customer Retention from 88% to 92%, increase Net Revenue Retention from 102% to 110%, and deliver at least a 20% uplift in Customer Lifetime Value while maintaining sustainable AI operating costs, an LTV:CAC ratio above 3:1 and a payback period within 24 months. Continued investment is justified only if these commercial outcomes materialise; if sustained operational adoption remains below 30% of eligible customer accounts within 12 months of General Availability or cohort analysis shows no measurable improvement in retention or Net Revenue Retention, the strategic hypothesis is considered disproven and future investment should be limited to maintenance rather than expansion.
 
 ## 2. Kill criteria
 
