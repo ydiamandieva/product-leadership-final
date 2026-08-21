@@ -24,13 +24,13 @@ _The key players affected by your initiative, their decision power and influence
 
 _Your board-ready case: what the problem is, what you're proposing, why now, and what you need._
 
-> **The problem:** _____
+> **The problem:** MyCF is primarily used as a reporting platform rather than the operational system customers rely on every day. Fleet managers still spend unnecessary time navigating dashboards and reports to find answers, limiting engagement, reducing long-term product dependence, and constraining Customer Lifetime Value.
 >
-> **What I'm proposing:** _____
+> **What I'm proposing:** Invest in the AI Assistant as a strategic capability that makes conversation the primary interface to fleet intelligence. By delivering fast, evidence-backed answers grounded in trusted MyCF data, we will embed the platform into customers' daily operational decision-making and increase retention, Net Revenue Retention and Customer Lifetime Value.
 >
-> **Why now:** _____
+> **Why now:** Generative AI has created a step change in customer expectations, but sustainable competitive advantage will come from combining AI with proprietary fleet data and trusted operational intelligence. Acting now allows us to establish behavioural adoption before competitors commoditise conversational AI, while validating the strategic hypothesis that drives our long-term growth.
 >
-> **What I need:** _____
+> **What I need:** Approval to fund the next phase of investment focused on three strategic bets: proving that conversational workflows reduce customer effort, strengthening trust through evidence-backed answers, and establishing habitual AI usage. Success will be measured against behavioural adoption, AI quality and commercial outcomes, with continued investment contingent on meeting agreed success criteria.
 
 ## Link to full artifact
 https://docs.google.com/presentation/d/1oxNXjxlt44Y6gk2YWyrdnIMzI7bl7mmfros9qOOmCtA/edit?slide=id.p7#slide=id.p7
