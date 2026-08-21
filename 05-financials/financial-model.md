@@ -6,15 +6,13 @@
 
 ## 1. Business case
 
-_Why this initiative is worth funding over the alternatives. Include the key unit economics assumptions, CAC, LTV, payback period, where relevant._
-
 | Assumption | Value | Source / rationale |
 |---|---|---|
-| CAC | _____ | _____ |
-| LTV | _____ | _____ |
-| Payback period | _____ | _____ |
-| Investment required | _____ | _____ |
-| Expected return | _____ | _____ |
+| CAC | Maintain within current acquisition budget (±10%) | Finance assumption. The business case is driven by improving customer value, not increasing acquisition spend. |
+| LTV | +20% versus current baseline | Derived from improved retention and expansion. Finance to validate using the existing CLV model. |
+| Payback period | ≤24 months | Finance investment criterion. The incremental investment should be recovered within the organisation's acceptable capital allocation horizon. |
+| Investment required | £X million (Product development, AI infrastructure, platform engineering, data engineering, rollout and change management) | Finance forecast. Represents the total incremental investment required to deliver and scale the AI Assistant through General Availability and initial adoption. |
+| Expected return | +20% increase in Customer Lifetime Value (CLV) and Net Revenue Retention (NRR) increase from 102% to 110% | Strategic business case. Financial return is driven primarily by improved retention and customer expansion rather than new customer acquisition. |
 
 > **The case in one paragraph:** _____
 
