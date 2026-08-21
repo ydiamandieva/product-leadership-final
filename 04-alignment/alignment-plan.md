@@ -27,5 +27,4 @@ _Your board-ready case: what the problem is, what you're proposing, why now, and
 > **What I need:** _____
 
 ## Link to full artifact
-
-_[link to Slide 4 of your deliverables deck]_
+https://docs.google.com/presentation/d/1oxNXjxlt44Y6gk2YWyrdnIMzI7bl7mmfros9qOOmCtA/edit?slide=id.p7#slide=id.p7
