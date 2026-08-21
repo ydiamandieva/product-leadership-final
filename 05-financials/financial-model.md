@@ -29,5 +29,4 @@ cohort analysis shows no statistically significant improvement in Annual Custome
 If any of these conditions are met, the strategic hypothesis that conversational interaction creates durable commercial value is considered disproven. Investment should be limited to maintenance and contractual obligations, with no further strategic expansion until a revised business case demonstrates an acceptable financial return.
 
 ## Link to full artifact
-
-_[link to Slide 5 of your deliverables deck]_
+https://docs.google.com/presentation/d/1oxNXjxlt44Y6gk2YWyrdnIMzI7bl7mmfros9qOOmCtA/edit?usp=sharing
