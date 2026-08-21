@@ -43,5 +43,4 @@ _What did you sequence first, what did you push out, and what did you cut entire
 > I cut these entirely because <br><br>These were intentionally excluded from the strategy because they do not strengthen the strategic hypothesis or create sustainable competitive advantage.<br> • Generic AI capabilities not grounded in trusted MyCF or approved third-party data were excluded because they undermine customer trust and erode differentiation. They also conflict with the stated Hard No.<br> • Geography-specific capabilities were intentionally deferred beyond 2027 because they fragment engineering effort before platform-wide value has been maximised.<br> • Capabilities that duplicate commodity AI functionality were not prioritised because foundation models, orchestration and infrastructure are deliberately treated as Buy capabilities rather than proprietary investments.<br> • Standalone AI features that increase novelty but not operational dependence were excluded because the objective is not higher AI usage—it is making MyCF the indispensable operational interface that increases retention, Net Revenue Retention and Customer Lifetime Value.
 > 
 ## Link to full artifact
-
-_[link to Slide 2 of your deliverables deck]_
+https://docs.google.com/presentation/d/1pH56OSY0Zw0SvLFuKSTz27dsKy-7bc1N/edit?slide=id.p5#slide=id.p5
