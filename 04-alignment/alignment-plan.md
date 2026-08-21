@@ -9,6 +9,7 @@
 _The key players affected by your initiative, their decision power and influence, potential blockers, and how you'll bring each along._
 
 | Stakeholder | Power / influence | Stance (champion / neutral / blocker) | How you'll bring them along |
+| ----- | ----- | ----- | ----- |
 |Head of Product / Product Leadership|Very High – Owns product strategy, investment and roadmap prioritisation.|Champion (if commercial value is demonstrated)|Tie every investment to retention, NRR and CLV. Use quarterly strategy reviews and business-case evidence to show progress against OKRs.|
 | PM 1 – Onboarding | Medium – Owns activation journey and shared engineering capacity. | Neutral | Position AI as improving activation, not competing with onboarding. Define clear ownership: they own the journey, AI team owns the capability. |
 | PM 2 – Retention | Medium – Owns engagement and retention initiatives. | Champion | Demonstrate that habitual AI usage supports retention goals. Share success metrics and jointly prioritise AI-enabled retention experiences. |
