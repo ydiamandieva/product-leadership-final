@@ -1,4 +1,4 @@
-# Outcome Roadmap & Trade-off Memo: [Fable / Meridian / your initiative]
+# Outcome Roadmap & Trade-off Memo: [AI Assistant]
 
 > Module 2 · Prioritization & Roadmapping for Product Leaders, ★ Deliverable 2
 >
